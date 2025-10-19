@@ -1,0 +1,76 @@
+{
+  "title": "Explore nossa produção",
+  "subtitle": "",
+  "cards": [
+    {
+      "title": "Sobre",
+      "content": "Informações sobre C3Dig.",
+      "image": "/images/sobre.jpg",
+      "href": "/sobre",
+      "hide": false
+    },
+    {
+      "title": "Projetos de pesquisa",
+      "image": "/images/projetos-pesquisa.jpg",
+      "href": "/projetos",
+      "content": "Projetos em andamento no C3Dig.",
+      "hide": false
+    },
+    {
+      "title": "Artigos",
+      "image": "/images/artigos-publicados.jpg",
+      "href": "/artigos",
+      "content": "Produção bibliográfica do C3Dig em periódicos.",
+      "hide": false
+    },
+    {
+      "title": "Livros e ebooks",
+      "image": "/images/livros-ebooks.jpg",
+      "href": "/livros",
+      "content": "Publicações do C3Dig.",
+      "hide": false
+    },
+    {
+      "title": "Teses e dissertações",
+      "image": "/images/teses-dissertacoes.jpg",
+      "href": "/teses-e-dissertacoes",
+      "content": "Teses e dissertações produzidas pelos pesquisadores do C3Dig.",
+      "hide": false
+    },
+    {
+      "title": "Integrantes",
+      "content": "Conheça quem faz parte do c3dig",
+      "href": "/integrantes",
+      "image": "/images/integrantes.jpg",
+      "hide": false
+    },
+    {
+      "title": "Leituras recomendadas",
+      "content": "Publicações importantes que tangem a temática do grupo",
+      "image": "/images/leituras-recomendadas.jpg",
+      "href": "/leituras-recomendadas",
+      "hide": false
+    },
+    {
+      "title": "Vídeos",
+      "content": "Vídeos e aulas disponíveis para acesso público",
+      "image": "/images/videos.jpg",
+      "href": "/videos",
+      "hide": false
+    },
+    {
+      "title": "Eventos",
+      "content": "Próximos eventos que estão relacionados com a temática do grupo",
+      "image": "/images/events.jpg",
+      "href": "/eventos",
+      "hide": false
+    },
+    {
+      "title": "Podcasts",
+      "content": "Podcasts do Grupo de Pesquisa em Comunicação, Cultura e Consumo Digitais",
+      "image": "/images/podcast-c3dig.jpg",
+      "href": "/podcasts",
+      "hide": false
+    }
+  ]
+}

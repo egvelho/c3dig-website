@@ -1,0 +1,20 @@
+{
+  "aboutPageContent": "app/about/about-content.json",
+  "booksPageData": "app/books/books-data.json",
+  "podcastsPageData": "app/podcasts/podcasts-data.json",
+  "eventsPageData": "app/events/events-data.json",
+  "videosPageData": "app/videos/videos-data.json",
+  "researchPageData": "app/research/research-data.json",
+  "ebooks": "app/blog/ebooks",
+  "ebooksApi": "public/static-api/ebooks",
+  "ebooksByTagApi": "public/static-api/ebooks-by-tag",
+  "papers": "app/blog/papers",
+  "papersApi": "public/static-api/papers",
+  "papersByTagApi": "public/static-api/papers-by-tag",
+  "reports": "app/blog/reports",
+  "reportsApi": "public/static-api/reports",
+  "reportsByTagApi": "public/static-api/reports-by-tag",
+  "works": "app/blog/works",
+  "worksApi": "public/static-api/works",
+  "worksByTagApi": "public/static-api/works-by-tag"
+}
